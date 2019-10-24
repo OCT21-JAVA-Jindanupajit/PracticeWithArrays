@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebf53055-2879-4703-947e-38edbc35261f" name="Default Changelist" comment="" />
+    <list default="true" id="ebf53055-2879-4703-947e-38edbc35261f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/FindTheLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SfBTUhTyJF3HOUl0nPuuOsvepe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -36,7 +47,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Matching">
+  <component name="RunManager" selected="Application.RemoveDuplicate">
+    <configuration name="FindTheLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExerciseX2.FindTheLength" />
+      <module name="OCT21-JAVA-Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayExerciseX2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Matching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeWithArrays.Matching" />
       <module name="OCT21-JAVA-Arrays" />
@@ -50,25 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNumberBackward" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeWithArrays.PrintNumberBackward" />
+    <configuration name="RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExerciseX2.RemoveDuplicate" />
       <module name="OCT21-JAVA-Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeWithArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintTheIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeWithArrays.PrintTheIndex" />
-      <module name="OCT21-JAVA-Arrays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeWithArrays.*" />
+          <option name="PATTERN" value="ArrayExerciseX2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StoreThreeNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeWithArrays.StoreThreeNames" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExerciseX2.ReverseString" />
       <module name="OCT21-JAVA-Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeWithArrays.*" />
+          <option name="PATTERN" value="ArrayExerciseX2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicate" />
+        <item itemvalue="Application.FindTheLength" />
+        <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.Matching" />
         <item itemvalue="Application.ReplaceTWithHello" />
-        <item itemvalue="Application.PrintNumberBackward" />
-        <item itemvalue="Application.PrintTheIndex" />
-        <item itemvalue="Application.StoreThreeNames" />
       </list>
     </recent_temporary>
   </component>
@@ -122,11 +133,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571944777730</updated>
-      <workItem from="1571944782533" duration="2572000" />
+      <workItem from="1571944782533" duration="5262000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
