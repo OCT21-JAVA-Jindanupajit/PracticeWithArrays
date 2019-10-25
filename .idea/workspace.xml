@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebf53055-2879-4703-947e-38edbc35261f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/OddAndEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/SumOfThirteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleHangman/SimpleHangmanApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OCT21-JAVA-Arrays/ArrayExerciseX2/RemoveDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCT21-JAVA-Arrays/ArrayExerciseX2/RemoveDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayExerciseX2/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/RemoveDuplicate.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicate">
+  <component name="RunManager" selected="Application.SimpleHangmanApplication">
     <configuration name="FindTheLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExerciseX2.FindTheLength" />
       <module name="OCT21-JAVA-Arrays" />
@@ -87,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExerciseX2.ReverseString" />
+    <configuration name="SimpleHangmanApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleHangman.SimpleHangmanApplication" />
       <module name="OCT21-JAVA-Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayExerciseX2.*" />
+          <option name="PATTERN" value="SimpleHangman.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleHangmanApplication" />
         <item itemvalue="Application.RemoveDuplicate" />
         <item itemvalue="Application.SumOfThirteen" />
         <item itemvalue="Application.OddAndEven" />
         <item itemvalue="Application.FindTheLength" />
-        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571944777730</updated>
       <workItem from="1571944782533" duration="5602000" />
-      <workItem from="1572024963488" duration="3125000" />
+      <workItem from="1572024963488" duration="10119000" />
     </task>
     <servers />
   </component>
