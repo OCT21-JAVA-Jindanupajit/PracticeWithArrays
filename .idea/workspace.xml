@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebf53055-2879-4703-947e-38edbc35261f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/FindTheLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/OddAndEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/SumOfThirteen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCT21-JAVA-Arrays/ArrayExerciseX2/RemoveDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCT21-JAVA-Arrays/ArrayExerciseX2/RemoveDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayExerciseX2/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayExerciseX2/RemoveDuplicate.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeWithArrays.Matching" />
+    <configuration name="OddAndEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExerciseX2.OddAndEven" />
       <module name="OCT21-JAVA-Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeWithArrays.*" />
+          <option name="PATTERN" value="ArrayExerciseX2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceTWithHello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeWithArrays.ReplaceTWithHello" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExerciseX2.ReverseString" />
       <module name="OCT21-JAVA-Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeWithArrays.*" />
+          <option name="PATTERN" value="ArrayExerciseX2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExerciseX2.ReverseString" />
+    <configuration name="SumOfThirteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExerciseX2.SumOfThirteen" />
       <module name="OCT21-JAVA-Arrays" />
       <extension name="coverage">
         <pattern>
@@ -116,10 +116,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.RemoveDuplicate" />
+        <item itemvalue="Application.SumOfThirteen" />
+        <item itemvalue="Application.OddAndEven" />
         <item itemvalue="Application.FindTheLength" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.Matching" />
-        <item itemvalue="Application.ReplaceTWithHello" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571944777730</updated>
-      <workItem from="1571944782533" duration="5262000" />
+      <workItem from="1571944782533" duration="5602000" />
+      <workItem from="1572024963488" duration="3125000" />
     </task>
     <servers />
   </component>
@@ -145,7 +146,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

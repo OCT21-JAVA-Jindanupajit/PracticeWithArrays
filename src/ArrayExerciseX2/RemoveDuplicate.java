@@ -12,11 +12,28 @@ public class RemoveDuplicate {
             value[i] = kb.nextInt();
         }
 
-        for (int i = 0; i < value.length; i++) {
-            System.out.println(value[i]);
+        System.out.println("\nBefore");
+        for (int i : value) {
+            System.out.print(i+" ");
         }
 
+        System.out.println("\nAfter");
 
+        String toPrint = "";
+        outer:
+        for (int i = value.length -1 ; i >= 0; i--) {
+            for (int j = 0; j < i; j++) {
+
+                if (value[i]==value[j]) {
+                    continue outer;
+                }
+
+            }
+
+            toPrint = +value[i]+" "+toPrint;
+        }
+
+        System.out.println(toPrint);
 
 
     }
